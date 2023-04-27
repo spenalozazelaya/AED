@@ -1,1 +1,6 @@
-gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0
+Algoritmos y Estructura de Datos
+K1051
+2023
+1677196
+Peñaloza 
+Sebastian
